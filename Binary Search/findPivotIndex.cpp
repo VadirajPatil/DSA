@@ -1,5 +1,8 @@
 /*
 find pivot index.
+Ex: arr[5] = {8,9,1,3,7}
+There are two monotonically increasing functions - line containing 8 and 9 & another 1, 3, 7. At number "1" is the point where the line is getting pivoted. So "1" is 
+the pivot index of the array.
 */
 
 #include<iostream>
